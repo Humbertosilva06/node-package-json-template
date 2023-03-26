@@ -1,0 +1,24 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "aula 01 backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "buscaPorBrasil": "node index.js Brazil",
+    "buscaPorLetraB": "node index.js ",
+    "addPais": "node add.js",
+    "fixacao" : "node fixacao.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Humbertosilva06/node-package-json-template.git"
+  },
+  "author": "Humberto de Oliveira Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Humbertosilva06/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/Humbertosilva06/node-package-json-template#readme"
+}
